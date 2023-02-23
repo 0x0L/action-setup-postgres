@@ -1,5 +1,6 @@
 # setup-postgres
 
+t
 This action sets up a PostgreSQL server for the rest of the job. Here are some
 key features:
 
